@@ -66,7 +66,9 @@ After work on your car was done, you will get an invoice, where you can see who 
 ![Invoice](PNGs/Invoice.png)
 
 
+## Authors
 
+* [Yahor Akushevich](https://www.linkedin.com/in/yahor-akushevich-4101ba110/)
 
 
 
