@@ -5,7 +5,7 @@ Main goal of this database is to manage and organize work in workshop.
 ## Context
  Access to the database should be provided to the employees and customers. Application can be connected to the internet connection for easier use of customers.
 
-### Functionalities
+## Functionalities
 •	Show prices of work and parts 
 
 •	Show Customers information
@@ -22,3 +22,10 @@ Main goal of this database is to manage and organize work in workshop.
 
 •	Show invoice after work was done
 
+### Entity Diagram
+![entity Diagram](DBphoto.png)
+
+
+
+
+## User	Manual
