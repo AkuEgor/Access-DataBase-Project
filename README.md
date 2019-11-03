@@ -23,7 +23,7 @@ Main goal of this database is to manage and organize work in workshop.
 •	Show invoice after work was done
 
 ### Entity Diagram
-![entity Diagram](DBphoto.png)
+![entity Diagram](PNGs/DBphoto.png)
 
 
 
